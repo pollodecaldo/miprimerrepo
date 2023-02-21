@@ -20,4 +20,3 @@ while cuenta < count:
     numero = randomizer(inicio, final)
     print("{:.2f}".format(numero))
     cuenta += 1
-    
